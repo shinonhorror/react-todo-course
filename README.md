@@ -1,4 +1,4 @@
-# React Project from the React Course (Udemy)
+# React TODO from the React Course (Udemy)
 
 ## Available Scripts
 
