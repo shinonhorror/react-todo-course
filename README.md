@@ -2,7 +2,7 @@
 
 ## Deploying on Netify 
 
-Open [https://todo-react-course.netlify.app/](https://todo-react-course.netlify.app/) to view it!
+Open [my TODO app](https://todo-react-course.netlify.app/) to view it!
 
 ## Available Scripts
 
