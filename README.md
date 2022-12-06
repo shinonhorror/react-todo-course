@@ -1,5 +1,9 @@
 # React TODO from the React Course (Udemy)
 
+## Deploying on Netify 
+
+[https://todo-react-course.netlify.app/]
+
 ## Available Scripts
 
 In the project directory, you can run:
